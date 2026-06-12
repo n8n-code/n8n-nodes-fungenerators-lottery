@@ -1,0 +1,1 @@
+export { lotteryDescription } from './lottery';
